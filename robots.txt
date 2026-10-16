@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thivadde0.github.io/repo-r71uyp/sitemap.xml
+# Atom Feed: https://thivadde0.github.io/repo-r71uyp/feed.xml
